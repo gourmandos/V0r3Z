@@ -8,6 +8,8 @@
 
 [Stealth Bed Front LED](https://github.com/MotorDynamicsLab/LDOVoron0/tree/v02/STLs/Kirigami)
 
+Kirigami Breakout Mount & Stealth Bed Front [HERE](https://github.com/MotorDynamicsLab/LDOVoron0/tree/v02/STLs/Kirigami)
+
 ### Toolhead
 
 [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner)
@@ -21,6 +23,8 @@
 ### Chamber
 
 Daylight on a Stick LEDs [diffusers](https://github.com/chirpy2605/voron/tree/main/V0/Daylight_on_a_Matchstick) & remixed [mount](https://www.printables.com/model/517899-voron-v0-v01-v02-daylight-on-a-matchstick-led-stri)
+
+[Daylight mount - official](https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight/STL)
 
 [MFNano carbon filter](https://github.com/MapleLeafMakers/MFNano)
 
@@ -42,6 +46,8 @@ Daylight on a Stick LEDs [diffusers](https://github.com/chirpy2605/voron/tree/ma
 
 [Stealth Handles](https://github.com/MapleLeafMakers/V0_Stealth_Handles)
 
+[V0 Handles Slim](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ch4rlesB/V0_Handles_Slim)
+
 [Motor panel remix](https://www.printables.com/model/499045-voron-v02-motor-panels-remix)
 
 [Front keystone skirt](https://www.printables.com/model/481813-usb-ethernet-front-keystone-for-voron-02)
@@ -52,7 +58,7 @@ Daylight on a Stick LEDs [diffusers](https://github.com/chirpy2605/voron/tree/ma
 
 [v0 mid panel cover / blanking plate](https://www.printables.com/model/517988-voron-v0-mid-panel-hole-cover-blanking-plate)
 
-## TRIZERO
+### Electronics
 
-[Skirts](https://github.com/harry-boe/tri-zero/tree/main/Mods/hbo/SkirtsCollection)
+[1515 Wago mounts](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/BlueBear/Wago_221_mount)
 
