@@ -42,6 +42,8 @@ Daylight on a Stick LEDs [diffusers](https://github.com/chirpy2605/voron/tree/ma
  
 ### Panels & skirts
 
+[V0.2 Stealth Skirts](https://mods.vorondesign.com/detail/FB646KO2cokFqN0D6vl0A?mibextid=9R9pXO)
+
 [Full height front door](https://www.printables.com/model/476613-voron-02-full-height-door-clips)
 
 [Stealth Handles](https://github.com/MapleLeafMakers/V0_Stealth_Handles)
