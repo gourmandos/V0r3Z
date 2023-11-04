@@ -36,7 +36,11 @@ Daylight on a Stick LEDs [diffusers](https://github.com/chirpy2605/voron/tree/ma
 
 [Pi Camera Mount](https://github.com/chirpy2605/voron/tree/main/V0/v0.2_Stuff)
 
-[Chamber thermistor mount](https://github.com/MapleLeafMakers/V0_Chamber_Thermistor_Mount)
+[Chamber thermistor - vertical mount](https://github.com/MapleLeafMakers/V0_Chamber_Thermistor_Mount)
+
+[Chamber thermistor - horizontal mount](https://www.printables.com/model/499851-voron-v02-chamber-thermistor-mount)
+
+[Daylight on a stick diffusers](https://github.com/chirpy2605/voron/tree/main/V0/Daylight_on_a_Matchstick)
 
 [1515 extrusion slot covers](https://www.thingiverse.com/thing:4177446)
  
@@ -59,6 +63,8 @@ Daylight on a Stick LEDs [diffusers](https://github.com/chirpy2605/voron/tree/ma
 [Z axis cover](https://github.com/chirpy2605/voron/tree/main/V0/v0.2_Stuff)
 
 [v0 mid panel cover / blanking plate](https://www.printables.com/model/517988-voron-v0-mid-panel-hole-cover-blanking-plate)
+
+[Snap latch panels](https://www.printables.com/model/172427-voron-01-filament-latch-1515-extrusion/files)
 
 ### Electronics
 
