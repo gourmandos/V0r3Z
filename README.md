@@ -70,3 +70,9 @@ Daylight on a Stick LEDs [diffusers](https://github.com/chirpy2605/voron/tree/ma
 
 [1515 Wago mounts](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/BlueBear/Wago_221_mount)
 
+### To explore
+
+https://github.com/chirpy2605
+
+https://github.com/nhchiu/VoronMods/tree/main/V0/Toolhead/STLs
+
