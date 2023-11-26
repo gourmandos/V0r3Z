@@ -2,6 +2,12 @@
 
 ## MODS
 
+### Pandora 
+
+[Official Pandora Box](https://github.com/MasturMynd/Pandoras_Box)
+
+[Pandora Summit](https://github.com/ruiqimao/VoronStuff/tree/main/Pandoras_Summit)
+
 ### Motion
 
 [MGN9C X axis](https://github.com/ruiqimao/VoronUsers/tree/v0.2-mgn9c/printer_mods/ruiqimao/V0.2_MGN9C_X) (and replace the X axis extrusion ?)
