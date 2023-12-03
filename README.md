@@ -70,11 +70,23 @@ Daylight on a Stick LEDs [diffusers](https://github.com/chirpy2605/voron/tree/ma
 
 [v0 mid panel cover / blanking plate](https://www.printables.com/model/517988-voron-v0-mid-panel-hole-cover-blanking-plate)
 
-[Snap latch panels](https://www.printables.com/model/172427-voron-01-filament-latch-1515-extrusion/files)
+[Snap latch panels](https://www.printables.com/model/172427-voron-01-filament-latch-1515-extrusion/files)  -  Annex panels remix doesn't work that well
+
+### Wider feet
+
+[stealthskirts extended feet](https://www.printables.com/model/578120-v02-stealthskirts-extended-feet/files)
+
+[Wide stance](https://www.printables.com/model/343666-voron-0-wide-stance/collections)
+
+[Taller stealth feet](https://www.printables.com/model/664821-taller-v02-stealth-feet)
 
 ### Electronics
 
 [1515 Wago mounts](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/BlueBear/Wago_221_mount)
+
+[Cable Management Duct](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/ryandam/Cable_management_duct)
+
+[FYSETC Voron V0.1Full Metal Heat Bed Frame WAGO bracket](https://www.thingiverse.com/thing:5771119)
 
 ### To explore
 
