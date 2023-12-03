@@ -72,6 +72,8 @@ Daylight on a Stick LEDs [diffusers](https://github.com/chirpy2605/voron/tree/ma
 
 [Snap latch panels](https://www.printables.com/model/172427-voron-01-filament-latch-1515-extrusion/files)  -  Annex panels remix doesn't work that well
 
+[Voron Hex Mid Panel (v0.2)](https://thangs.com/designer/MandicReally/3d-model/Voron%20Hex%20Mid%20Panel%20-%20Accent%20your%200.2%21-960156)
+
 ### Wider feet
 
 [stealthskirts extended feet](https://www.printables.com/model/578120-v02-stealthskirts-extended-feet/files)
