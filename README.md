@@ -74,6 +74,10 @@ Daylight on a Stick LEDs [diffusers](https://github.com/chirpy2605/voron/tree/ma
 
 [Voron Hex Mid Panel (v0.2)](https://thangs.com/designer/MandicReally/3d-model/Voron%20Hex%20Mid%20Panel%20-%20Accent%20your%200.2%21-960156)
 
+[Fridge door](https://github.com/TheVoronModder/MiniFridge/blob/main/README.md)
+
+[k3 door hinges](https://github.com/Hudson-1/Mods-and-Accessories/tree/main/PFA%20Annex%20Hinge)
+
 ### Wider feet
 
 [stealthskirts extended feet](https://www.printables.com/model/578120-v02-stealthskirts-extended-feet/files)
