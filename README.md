@@ -28,6 +28,10 @@ Kirigami Breakout Mount & Stealth Bed Front [HERE](https://github.com/MotorDynam
 
 ### Chamber
 
+[Upper-Rear Bowden Inlet (URBI)](https://github.com/MapleLeafMakers/V0_Upper_Rear_Bowden_Inlet) 
+
+[Back panel exhaust](https://www.teamfdm.com/files/file/179-voron-v0-exhaust-and-led-mod/)
+
 Daylight on a Stick LEDs [diffusers](https://github.com/chirpy2605/voron/tree/main/V0/Daylight_on_a_Matchstick) & remixed [mount](https://www.printables.com/model/517899-voron-v0-v01-v02-daylight-on-a-matchstick-led-stri)
 
 [Daylight mount - official](https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight/STL)
