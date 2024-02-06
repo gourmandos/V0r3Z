@@ -8,6 +8,10 @@
 
 [Pandora Summit](https://github.com/ruiqimao/VoronStuff/tree/main/Pandoras_Summit)
 
+[Pandora meshed bottom panel](https://cad.onshape.com/documents/0d6514b45a18b067aaadd401/w/6ef5add86a62e61bfe5abbd5/e/7b425ef11086e4fcb184896a)
+
+[Pandora PCB Klicky - Micron compatible](https://github.com/hartk1213/Micron/blob/main/R1_Gantry_Beta/STLs/X_Axis/%5Ba%5D_pcb_klicky_probe.stl)
+
 ### Motion
 
 [MGN9C X axis](https://github.com/ruiqimao/VoronUsers/tree/v0.2-mgn9c/printer_mods/ruiqimao/V0.2_MGN9C_X) (and replace the X axis extrusion ?)
@@ -25,6 +29,8 @@ Kirigami Breakout Mount & Stealth Bed Front [HERE](https://github.com/MotorDynam
 [Waveshare RS485 RPi Can Hat](https://www.waveshare.com/rs485-can-hat.htm)
 
 [BamBuLabs mount](https://github.com/VoronDesign/Voron-0/tree/Voron0.2r1/STLs/Toolheads/Hotend_Mounts/Standard)
+
+[Mini Stealth - Mini Sherpa](https://www.teamfdm.com/files/file/657-mini-stealth-mini-sherpa/)
 
 ### Chamber
 
@@ -86,6 +92,8 @@ Daylight on a Stick LEDs [diffusers](https://github.com/chirpy2605/voron/tree/ma
 
 [Taller stealth feet](https://www.printables.com/model/664821-taller-v02-stealth-feet)
 
+[SwitchWire TPU feet](https://github.com/boubounokefalos/Ender_SW/blob/v1.0/STL/foot_tpu_x4.stl)
+
 ### Electronics
 
 [1515 Wago mounts](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/BlueBear/Wago_221_mount)
@@ -93,6 +101,10 @@ Daylight on a Stick LEDs [diffusers](https://github.com/chirpy2605/voron/tree/ma
 [Cable Management Duct](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/ryandam/Cable_management_duct)
 
 [FYSETC Voron V0.1Full Metal Heat Bed Frame WAGO bracket](https://www.thingiverse.com/thing:5771119)
+
+[SKR-Mini_Screen_Adaptor](https://github.com/VoronDesign/Voron-Hardware/tree/master/SKR-Mini_Screen_Adaptor/SRK%20Mini%20E3%20V3.0)
+
+[SKR-Mini_TFT_Thermistor_Board](https://github.com/VoronDesign/Voron-Hardware/tree/master/SKR-Mini_TFT_Thermistor_Board)
 
 ### To explore
 
