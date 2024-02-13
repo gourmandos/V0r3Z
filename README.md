@@ -2,6 +2,28 @@
 
 ## MODS
 
+### TriZero
+
+[Official repo](https://github.com/zruncho3d/tri-zero)
+
+[SinisterRj's collection](https://github.com/SinisterRj/Voron-Trizero/tree/main/Mods)
+
+[HBO's collection](https://github.com/harry-boe/tri-zero/tree/main/Mods/hbo)
+
+[40mm fan skirt adapters](https://github.com/harry-boe/tri-zero/tree/main/Mods/flyespresso/Motor%20Skirts%2040mm%20Fan)
+
+### Bed probe
+
+[KlickSwipe](https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/v0/Usermods/KlickSwipe)
+
+[UnklickySlideswipe](https://github.com/chestwood96/SlideSwipe/tree/master/Experimental/UnklickySlideSwipe(better%20name%20pending))
+
+[SlideSwipe](https://www.printables.com/model/567599-slideswipe-trimmed-probe-carrier-tri-zero-friendly)
+
+[SlideSwipe top extrusion mount](https://www.printables.com/model/567595-slideswipe-top-extrusion-mount-with-cable-passthro)
+
+[Full housing for Voron V0 Klickswipe](https://www.printables.com/model/379117-full-housing-for-voron-v0-klickswipe-a-servo-power)
+
 ### Pandora 
 
 [Official Pandora Box](https://github.com/MasturMynd/Pandoras_Box)
@@ -11,6 +33,8 @@
 [Pandora meshed bottom panel](https://cad.onshape.com/documents/0d6514b45a18b067aaadd401/w/6ef5add86a62e61bfe5abbd5/e/7b425ef11086e4fcb184896a)
 
 [Pandora PCB Klicky - Micron compatible](https://github.com/hartk1213/Micron/blob/main/R1_Gantry_Beta/STLs/X_Axis/%5Ba%5D_pcb_klicky_probe.stl)
+
+[BMG Z ](https://github.com/CaZa3D/BMGZ)
 
 ### Motion
 
