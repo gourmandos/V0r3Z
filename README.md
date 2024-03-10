@@ -44,6 +44,8 @@
 
 Kirigami Breakout Mount & Stealth Bed Front [HERE](https://github.com/MotorDynamicsLab/LDOVoron0/tree/v02/STLs/Kirigami)
 
+[TriZero Z Idler MOD](https://github.com/harry-boe/tri-zero/tree/main/Mods/hbo/Z_Idler)
+
 ### Toolhead
 
 [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner)
@@ -83,6 +85,8 @@ Daylight on a Stick LEDs [diffusers](https://github.com/chirpy2605/voron/tree/ma
 [Daylight on a stick diffusers](https://github.com/chirpy2605/voron/tree/main/V0/Daylight_on_a_Matchstick)
 
 [1515 extrusion slot covers](https://www.thingiverse.com/thing:4177446)
+
+[V0 Auxiliary Cooling Fan](https://github.com/JackJack3231/V0-Auxiliary-Fan)
  
 ### Panels & skirts
 
@@ -111,6 +115,14 @@ Daylight on a Stick LEDs [diffusers](https://github.com/chirpy2605/voron/tree/ma
 [Fridge door](https://github.com/TheVoronModder/MiniFridge/blob/main/README.md)
 
 [k3 door hinges](https://github.com/Hudson-1/Mods-and-Accessories/tree/main/PFA%20Annex%20Hinge)
+
+[Doomify-Zero-Panels](https://github.com/probably-Erwins-Cat/Doomify-Zero-Panels)
+
+[V0 OLED & Switch Mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/xbst_/V0_Skirt_Buttons)
+
+[Voron 0.1 skirt buttons](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Tircown/V01_skirt_buttons)
+
+[Voron V0.1 Skirt Power LED Diffuser](https://www.printables.com/model/108447-voron-v01-skirt-power-led-diffuser)
 
 ### Wider feet
 
