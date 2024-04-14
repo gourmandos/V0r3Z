@@ -1,3 +1,6 @@
+# Full description here: 
+# https://ellis3dp.com/Print-Tuning-Guide/articles/determining_max_speeds_accels.html
+
 # Home, get position, throw around toolhead, home again.
 # If MCU stepper positions (first line in GET_POSITION) are greater than a full step different (your number of microsteps), then skipping occured.
 # We only measure to a full step to accomodate for endstop variance.
@@ -11,9 +14,7 @@ gcode:
     {% set iterations = params.ITERATIONS|default(5)|int %}
     # Acceleration
     {% set accel  = params.ACCEL|default(printer.configfile.settings.printer.max_accel)|int %}
-    # Minimum Cruise Ratio
-    {% set minimum_cruise_ratio = params.MINIMUM_CRUISE_RATIO|default(printer.configfile.settings.printer.minimum_cruise_ratio|default(0.5))|float %}
-     # Bounding inset for large pattern (helps prevent slamming the toolhead into the sides after small skips, and helps to account for machines with imperfectly set dimensions)
+    # Bounding inset for large pattern (helps prevent slamming the toolhead into the sides after small skips, and helps to account for machines with imperfectly set dimensions)
     {% set bound = params.BOUND|default(20)|int %}
     # Size for small pattern box
     {% set smallpatternsize = SMALLPATTERNSIZE|default(20)|int %}
@@ -40,7 +41,7 @@ gcode:
     SAVE_GCODE_STATE NAME=TEST_SPEED
     
     # Output parameters to g-code terminal
-    { action_respond_info("TEST_SPEED: starting %d iterations at speed %d, accel %d, minimum_cruise_ratio %f" % (iterations, speed, accel, minimum_cruise_ratio)) }
+    { action_respond_info("TEST_SPEED: starting %d iterations at speed %d, accel %d" % (iterations, speed, accel)) }
     
     # Home and get position for comparison later:
         M400 # Finish moves - https://github.com/AndrewEllis93/Print-Tuning-Guide/issues/66
@@ -65,7 +66,7 @@ gcode:
     G0 X{x_min} Y{y_min} Z{bound + 10} F{speed*60}
 
     # Set new limits
-    SET_VELOCITY_LIMIT VELOCITY={speed} ACCEL={accel} MINIMUM_CRUISE_RATIO={minimum_cruise_ratio}
+    SET_VELOCITY_LIMIT VELOCITY={speed} ACCEL={accel} ACCEL_TO_DECEL={accel / 2}
 
     {% for i in range(iterations) %}
         # Large pattern diagonals
@@ -97,8 +98,8 @@ gcode:
         G0 X{x_center_max} Y{y_center_min} F{speed*60}
     {% endfor %}
 
-    # Restore max speed/accel/minimum_cruise_ratio to their configured values
-    SET_VELOCITY_LIMIT VELOCITY={printer.configfile.settings.printer.max_velocity} ACCEL={printer.configfile.settings.printer.max_accel} MINIMUM_CRUISE_RATIO={printer.configfile.settings.printer.minimum_cruise_ratio|default(0.5)}
+    # Restore max speed/accel/accel_to_decel to their configured values
+    SET_VELOCITY_LIMIT VELOCITY={printer.configfile.settings.printer.max_velocity} ACCEL={printer.configfile.settings.printer.max_accel} ACCEL_TO_DECEL={printer.configfile.settings.printer.max_accel_to_decel} 
 
     # Re-home and get position again for comparison:
         M400 # Finish moves - https://github.com/AndrewEllis93/Print-Tuning-Guide/issues/66
