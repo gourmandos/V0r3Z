@@ -16,6 +16,8 @@
 
 [KlickSwipe](https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/v0/Usermods/KlickSwipe)
 
+[Vertical KlickSwipe](https://www.printables.com/model/635114-voron-0102-klickswipe-verticalklicky-pcb-mod)
+
 [UnklickySlideswipe](https://github.com/chestwood96/SlideSwipe/tree/master/Experimental/UnklickySlideSwipe(better%20name%20pending))
 
 [SlideSwipe](https://www.printables.com/model/567599-slideswipe-trimmed-probe-carrier-tri-zero-friendly)
@@ -23,6 +25,8 @@
 [SlideSwipe top extrusion mount](https://www.printables.com/model/567595-slideswipe-top-extrusion-mount-with-cable-passthro)
 
 [Full housing for Voron V0 Klickswipe](https://www.printables.com/model/379117-full-housing-for-voron-v0-klickswipe-a-servo-power)
+
+
 
 ### Pandora 
 
@@ -46,11 +50,17 @@ Kirigami Breakout Mount & Stealth Bed Front [HERE](https://github.com/MotorDynam
 
 [TriZero Z Idler MOD](https://github.com/harry-boe/tri-zero/tree/main/Mods/hbo/Z_Idler)
 
+[v0.1_belted_z_drive](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/MathematicalPotato/v0.1_belted_z_drive)
+
 ### Toolhead
 
 [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner)
 
 [CAN mounts](https://github.com/KayosMaker/CANboard_Mounts)
+
+[DB EBB36 v1](https://www.printables.com/model/237738-big-tree-tech-ebb36-v10-stealthburner-mount/files)
+
+[DB EBB36 v2](https://www.printables.com/model/252174-big-tree-tech-ebb36-v12-bracket-strain-relief-for-/files)
 
 [Waveshare RS485 RPi Can Hat](https://www.waveshare.com/rs485-can-hat.htm)
 
@@ -87,6 +97,8 @@ Daylight on a Stick LEDs [diffusers](https://github.com/chirpy2605/voron/tree/ma
 [1515 extrusion slot covers](https://www.thingiverse.com/thing:4177446)
 
 [V0 Auxiliary Cooling Fan](https://github.com/JackJack3231/V0-Auxiliary-Fan)
+
+[4020 ZeroFilter](https://github.com/rajkumar-babu/Voron-0.1-4020-ZeroFilter/tree/main)
  
 ### Panels & skirts
 
@@ -146,6 +158,12 @@ Daylight on a Stick LEDs [diffusers](https://github.com/chirpy2605/voron/tree/ma
 
 [SKR-Mini_TFT_Thermistor_Board](https://github.com/VoronDesign/Voron-Hardware/tree/master/SKR-Mini_TFT_Thermistor_Board)
 
+[BTT Knomi v2 - Zero-shaped display for zero-sized printers](https://github.com/ruiqimao/zerod/tree/main)
+
+### Purchases
+
+[SSR - Crydom ED24C3](https://au.rs-online.com/web/p/solid-state-relays/7401330?sra=pmpn)
+
 ### To explore
 
 https://github.com/chirpy2605
@@ -154,4 +172,4 @@ https://github.com/nhchiu/VoronMods/tree/main/V0/Toolhead/STLs
 
 https://github.com/ruiqimao/VoronStuff/tree/main
 
-
+https://github.com/VoronMods/
